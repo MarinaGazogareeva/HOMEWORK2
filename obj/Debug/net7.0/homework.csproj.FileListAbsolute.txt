@@ -1,0 +1,15 @@
+C:\Geekbrains\Seminar21112022\homework\bin\Debug\net7.0\homework.exe
+C:\Geekbrains\Seminar21112022\homework\bin\Debug\net7.0\homework.deps.json
+C:\Geekbrains\Seminar21112022\homework\bin\Debug\net7.0\homework.runtimeconfig.json
+C:\Geekbrains\Seminar21112022\homework\bin\Debug\net7.0\homework.dll
+C:\Geekbrains\Seminar21112022\homework\bin\Debug\net7.0\homework.pdb
+C:\Geekbrains\Seminar21112022\homework\obj\Debug\net7.0\homework.csproj.AssemblyReference.cache
+C:\Geekbrains\Seminar21112022\homework\obj\Debug\net7.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\Seminar21112022\homework\obj\Debug\net7.0\homework.AssemblyInfoInputs.cache
+C:\Geekbrains\Seminar21112022\homework\obj\Debug\net7.0\homework.AssemblyInfo.cs
+C:\Geekbrains\Seminar21112022\homework\obj\Debug\net7.0\homework.csproj.CoreCompileInputs.cache
+C:\Geekbrains\Seminar21112022\homework\obj\Debug\net7.0\homework.dll
+C:\Geekbrains\Seminar21112022\homework\obj\Debug\net7.0\refint\homework.dll
+C:\Geekbrains\Seminar21112022\homework\obj\Debug\net7.0\homework.pdb
+C:\Geekbrains\Seminar21112022\homework\obj\Debug\net7.0\homework.genruntimeconfig.cache
+C:\Geekbrains\Seminar21112022\homework\obj\Debug\net7.0\ref\homework.dll
